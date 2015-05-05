@@ -10,4 +10,4 @@ We’ll build more app store apps as we go. Hopefully eventually we’ll even do
 - The second view controller should have a static table view with a username/password form
 - The third view controller should have 3 (Eeny, Meeny, and Miney) buttons that all push the same ThirdOptionsViewController. In the middle of the ThirdOptionsViewController there should be a lable that displays which of the three buttons was pressed. Eeny, Meeny, or Miney.
 - The fourth view controller should have a <strike>collection</strike> view of 6 new images of different sizes.
-- Tapping on the picture of the lion, or the picture of the tiger, should push the other. I.e. If I tap on a lion, it pushes a tiger view controller. If I tap on a tiger it pushes a lion view controller. And so forth.
+- the fifth view has a picture of a lion, Tapping on the picture of the lion, should push the A view controller with a picture of a tiger, tapping the tiger takes you back to the lion.
